@@ -1,5 +1,5 @@
 # Bank-Management-System
-Bank Management System in Java 
+Bank Management System using Java 
 
 
 #### Tool and Technologies Used:
