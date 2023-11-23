@@ -41,6 +41,3 @@ Bank Management System in Java
 ![alt text](https://github.com/halts440/Bank-Management-System/blob/main/Screenshots/8_Cheque_Deposit.PNG?raw=true)
 <br/>
 <br/>
-<br/>
-![alt text](https://github.com/halts440/Bank-Management-System/blob/main/Screenshots/9-Sample_E_Statement.PNG?raw=true)
-<br/>
